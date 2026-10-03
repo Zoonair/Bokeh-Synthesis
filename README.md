@@ -2,6 +2,17 @@
 
 This project explores an alternative approach to synthesizing background blur ("bokeh") on Android phones (6.0+), using the camera's own focus system rather than relying on a second camera, a dedicated depth sensor, or a trained segmentation model.
 
+## Installation
+- Go to Github Releases
+- Download the APK file
+- Open the APK file
+- Follow on screen instructions
+<img width="200" alt="Screenshot_20261003_001537_Package installer" src="https://github.com/user-attachments/assets/7810cf49-e755-4aec-92e9-052c17fa920a" />
+<br/>
+<img width="200" alt="Screenshot_20261003_001543_Google Play Store" src="https://github.com/user-attachments/assets/e296a7e3-a0e9-427d-9c32-e2c8691b9101" />
+<br/>
+<img width="200" alt="Screenshot_20261003_001549_Google Play Store" src="https://github.com/user-attachments/assets/63ba9431-7605-4d53-8f58-79e1bf4e08d4" />
+
 ## Common Methods
 Most phones achieve background blur in one of two ways:
 
