@@ -13,6 +13,11 @@ This project explores an alternative approach to synthesizing background blur ("
 <br/>
 <img width="200" alt="Screenshot_20261003_001549_Google Play Store" src="https://github.com/user-attachments/assets/63ba9431-7605-4d53-8f58-79e1bf4e08d4" />
 
+## How to Use
+Once you open the app, you will find that the app shows you a list of your phone's sensors. These are "Logical Sensors" grouped by your phone. Tapping inside a Logical Sensor will show you a list of Physical Sensors. These are the individual sensors in your phone. Tapping a Physical Sensor will show a preview created by the specific camera.
+
+Once in the preview, you may tap anywhere to focus and press the shutter when you're ready. The camera will focus from near to far to find the depth of the objects within the photo. Because of this, some sensors may not work due to physical limitations (e.g. the sensor has fixed focus). Once finished, the app will process and save results to your photo gallery. Note that metadata is also stored within the app.
+
 ## Common Methods
 Most phones achieve background blur in one of two ways:
 
